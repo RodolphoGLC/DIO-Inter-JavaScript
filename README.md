@@ -5,4 +5,4 @@ Repertório referente ao Bootcamp "Orange Tech +".
  - AprendendoBasicoJava: onde estão os programas básicos da linguagem
 
 ## Links Úteis 
- - [Plataforma da DIO](https://web.dio.me/)
+ - [Plataforma da DIO](https://web.dio.me)
