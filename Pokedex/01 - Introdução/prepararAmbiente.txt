@@ -1,0 +1,40 @@
+Instalar o node.vs
+    Pela WEB
+    Para ver se instalou 'node -v', 'npm -v'
+
+Instalar o Http-Server
+    Pelo Terminal
+    Para instalar 'npm install -g http-server'
+
+Criar um index.html
+    Pelo Terminal
+    Digite 'touch index.html'
+
+No index digite html:5
+
+Para ver o servidor 
+    No teminal 
+    Digite 'http-server.cmd'
+
+Explicação
+    Protocolo cliente servidor
+        Cliente faz uma solicitação, o servidor processa essa solicitação e depois envia a resposta
+            Cadeado = diz que o site e seguro
+                As solicitações são encriptadas
+
+Html - marca um texto para algum propósito
+    Quanto melhor organizado, mais fácil será o entendimento do usuário
+        Corpo do texto - <body></body>
+        Titulo - <h1></h1>
+        Paragrafo - <p></p>
+        Botão - <button type="button"></button>
+
+CSS - estilo do texto, aplicado em cascata
+    Colocado dentro do <head></head>
+        Para iniciar - <style></style> 
+        Para o Titulo - h1{ color: red; } - h1{ text-align: center; }
+
+JavaScript - quem da o comportamento
+    Colocardo dentro do Html (<body></body>) no final de tudo
+    Usamos a partir de algo
+        Para iniciar - <script></script> (o java será posto aqui dentro)
